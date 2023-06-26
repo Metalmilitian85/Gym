@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-image: url("Gotham.jpg");
+  background-image: url("./Gotham.jpg");
   background-size: cover;
   height: 100vh;
 }
