@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url("Gotham.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+h1 {
+  color: yellow;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+p {
+  color: yellow;
+}
